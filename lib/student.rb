@@ -1,3 +1,4 @@
 class Student 
 
-def 
+def hello 
+  puts ""
